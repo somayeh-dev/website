@@ -1,0 +1,25 @@
+# Virtual environment
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database
+db.sqlite3
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Static/media files (optional)
+staticfiles/
+media/
+
+# OS files
+.DS_Store
+Thumbs.db
